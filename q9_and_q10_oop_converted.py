@@ -1,0 +1,1 @@
+#1. Modifying the quiz 9 and quiz 10 by implementing inheritance 
